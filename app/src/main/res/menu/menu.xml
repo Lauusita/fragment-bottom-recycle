@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btn_pfp"
+        android:title="Profile"
+        android:icon="@drawable/ic_action_profile"
+        >
+    </item>
+
+    <item
+        android:id="@+id/btn_news"
+        android:title="News"
+        android:icon="@drawable/ic_action_news"
+        >
+    </item>
+
+    <item
+        android:id="@+id/btn_sett"
+        android:title="Settings"
+        android:icon="@drawable/ic_action_sett"
+        >
+    </item>
+</menu>
